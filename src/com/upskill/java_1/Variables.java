@@ -51,5 +51,12 @@ public class Variables {
 		String myCounty = county;
 		System.out.println(myCounty);
 	}
+	
+	//Git Change
+	public void git(){
+		System.out.println("Test Git");
+		
+		
+	}
 
 }
